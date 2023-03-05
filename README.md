@@ -20,7 +20,7 @@ How to play:-
 3. Compile and run the program.
 4. Use the arrow keys to control the direction of the snake.
 5. Eat the food to grow your snake and avoid colliding with the walls or your own tail.
-6.Try to get the highest score possible!
+6. Try to get the highest score possible!
 
 
 Dependencies:-
