@@ -1,6 +1,6 @@
-# Snake Game
+# SNAKE GAME
 
-This is a classic Snake game built using Java and Java Swing. The goal of the game is to eat food to grow your snake without colliding with the walls or your own tail.
+This is a classic Snake Game built using Java and Java Swing. The goal of the game is to eat food to grow your snake without colliding with the walls or your own tail.
 
 
 Features:-
