@@ -43,36 +43,14 @@ Contact:-
 If you have any questions or suggestions, please contact nandinisahu336@gmail.com
 
 
+Sreenshots:-
 
+<img width="946" alt="Screenshot 2023-03-06 184714" src="https://user-images.githubusercontent.com/117564136/223127815-83720b47-9a89-442d-ba55-9563600d9e9f.png">
 
+<img width="946" alt="Screenshot 2023-03-06 185112" src="https://user-images.githubusercontent.com/117564136/223127863-208d5f0b-7ccc-4032-a400-b86fbcd943d9.png">
 
+<img width="946" alt="Screenshot 2023-03-06 191318" src="https://user-images.githubusercontent.com/117564136/223127896-893b470c-4964-44bc-8e21-210f42378ea5.png">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="946" alt="Screenshot 2023-03-06 191427" src="https://user-images.githubusercontent.com/117564136/223127925-d3d4010f-4ed8-4cb3-ae9f-c1ec9573e837.png">
 
 
