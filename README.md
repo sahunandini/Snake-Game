@@ -3,7 +3,7 @@
 This is a classic Snake Game 🐉 built using Java and Java Swing. The goal of the game is to eat food to grow your snake without colliding with the walls or your own tail.
 
 
-##Features:-
+## Features:-
 
 1. Simple and intuitive gameplay.
 2. Randomly generated food.
@@ -13,7 +13,7 @@ This is a classic Snake Game 🐉 built using Java and Java Swing. The goal of t
 6. Sound effects.
 
 
-##How to play:-
+## How to play:-
 
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java IDE.
@@ -23,27 +23,27 @@ This is a classic Snake Game 🐉 built using Java and Java Swing. The goal of t
 6. Try to get the highest score possible!
 
 
-##Dependencies:-
+## Dependencies:-
 
 This program requires Java 8 or higher and Java Swing.
 
 
-##Contributing:-
+## Contributing:-
 
 Pull requests and bug reports are welcome. Please see the CONTRIBUTING file for guidelines.
 
 
-##Authors:-
+## Authors:-
 
 Nandini Sahu - https://github.com/sahunandini/
 
 
-##Contact:-
+## Contact:-
 
 If you have any questions or suggestions, please contact nandinisahu336@gmail.com
 
 
-##Sreenshots:-
+## Sreenshots:-
 
 <img width="946" alt="Snake Game" src="https://user-images.githubusercontent.com/117564136/223127815-83720b47-9a89-442d-ba55-9563600d9e9f.png">
 
